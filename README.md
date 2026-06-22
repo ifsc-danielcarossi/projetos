@@ -175,16 +175,11 @@ Este projeto foi desenvolvido com foco em aprendizagem dos seguintes conceitos:
 
 ## 📸 Telas do Sistema
 
-Sugestão:
-
 * Dashboard
 * Cadastro de Clientes
 * Cadastro de Categorias
 * Controle de Vendas
 * Avaliações
-
-*(Adicionar capturas de tela na pasta `/docs/images` e referenciá-las aqui.)*
-
 ---
 
 ## 👨‍💻 Autor
@@ -196,8 +191,3 @@ Projeto desenvolvido para fins acadêmicos e de aprendizado em desenvolvimento w
 ## 📄 Licença
 
 Este projeto está disponível para uso educacional e acadêmico.
-
-```
-
-Este README já está no padrão utilizado em projetos de portfólio no GitHub e pode ser copiado diretamente para um arquivo `README.md`.
-```
